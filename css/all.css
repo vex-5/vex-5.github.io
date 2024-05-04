@@ -8653,11 +8653,11 @@ label.panel-block:hover {
 
     .column.is-3-desktop {
         flex: none;
-        width: 25%
+        width: 14.25%
     }
 
     .column.is-offset-3-desktop {
-        margin-left: 25%
+        margin-left:14.25%
     }
 
     .column.is-4-desktop {
@@ -8707,11 +8707,11 @@ label.panel-block:hover {
 
     .column.is-9-desktop {
         flex: none;
-        width: 75%
+        width: 100%
     }
 
     .column.is-offset-9-desktop {
-        margin-left: 75%
+        margin-left: 100%
     }
 
     .column.is-10-desktop {
