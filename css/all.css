@@ -14974,3 +14974,6 @@ table.scoreboard tbody tr {
 .scale-button:hover {
     transform: scale(1.05);
 }
+.game_catelogy {
+    margin-bottom: 20px;
+}
